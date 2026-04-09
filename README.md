@@ -21,3 +21,5 @@ This project predicts whether a student will pass or fail based on:
 ## Output
 - 1 = Pass
 - 0 = Fail
+- ## Results
+- Model Accuracy: 0.8
